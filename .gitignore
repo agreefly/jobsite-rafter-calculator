@@ -1,0 +1,17 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+**/GeneratedPluginRegistrant.*
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+.DS_Store
