@@ -5,7 +5,11 @@ A high-contrast Flutter app for mobile framing layout, rafter length, cut list, 
 ## Project Setup
 
 1. Install Flutter and ensure `flutter doctor` passes.
-2. From the project root:
+2. If platform folders are not generated, run:
+   ```bash
+   flutter create .
+   ```
+3. From the project root:
    ```bash
    flutter pub get
    flutter run
