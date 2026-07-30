@@ -57,8 +57,8 @@ Keep the resulting `release-key.jks` file secure and back it up.
 ### Bundle ID
 
 - Open `ios/Runner.xcworkspace` in Xcode.
-- In Runner > Signing & Capabilities, set the bundle identifier to a unique value, for example:
-  `com.agreefly.jobsite-rafter-calculator`
+- In Runner > Signing & Capabilities, set the bundle identifier to the production value:
+  `com.agreefly.jobsite_rafter_calculator`
 
 ### Provisioning and certificates
 

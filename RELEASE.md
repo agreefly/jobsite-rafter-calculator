@@ -42,8 +42,8 @@ Use these recommended production identifiers:
 ### iOS
 
 - Open `ios/Runner.xcworkspace` in Xcode.
-- Set the bundle identifier to something unique, such as:
-  `com.agreefly.jobsite-rafter-calculator`
+- Set the bundle identifier to the production value:
+  `com.agreefly.jobsite_rafter_calculator`
 - Set the build version and release version under Runner > General.
 
 ## 3. Add required assets
