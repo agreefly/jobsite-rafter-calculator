@@ -12,8 +12,14 @@ A high-contrast Flutter app for mobile framing layout, rafter length, cut list, 
 3. From the project root:
    ```bash
    flutter pub get
+   flutter pub run flutter_launcher_icons:main
    flutter run
    ```
+
+## App icons
+
+- A high-contrast app icon placeholder is included at `assets/icon/app_icon.png`.
+- Run the launcher icon generator after `flutter pub get`.
 
 ## What it includes
 
