@@ -9,7 +9,10 @@ A high-contrast Flutter app for mobile framing layout, rafter length, cut list, 
    ```bash
    flutter create .
    ```
-3. From the project root:
+3. Set the production identifiers if you plan to publish:
+   - Android `applicationId`: `com.agreefly.jobsite_rafter_calculator`
+   - iOS bundle identifier: `com.agreefly.jobsite_rafter_calculator`
+4. From the project root:
    ```bash
    flutter pub get
    flutter pub run flutter_launcher_icons:main

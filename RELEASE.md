@@ -20,6 +20,11 @@ This file describes the exact steps and metadata needed to publish the app to Go
 
 ## 2. Set app identifiers and versioning
 
+Use these recommended production identifiers:
+
+- Android applicationId: `com.agreefly.jobsite_rafter_calculator`
+- iOS bundle identifier: `com.agreefly.jobsite_rafter_calculator`
+
 ### Android
 
 - Open `android/app/build.gradle`
