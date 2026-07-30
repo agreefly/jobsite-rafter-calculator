@@ -48,3 +48,5 @@ This repository is ready to be published as a public GitHub project. Use `gh rep
 ## Release Guide
 
 For store-specific packaging and signing steps, see `RELEASE.md`.
+
+For Android signing template and Apple/Xcode signing checklist, see `SIGNING.md`.

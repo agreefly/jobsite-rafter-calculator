@@ -1,0 +1,8 @@
+# Android signing key properties
+# Copy this file to android/key.properties and fill in the actual values.
+# DO NOT commit android/key.properties to version control.
+
+storePassword=YOUR_KEYSTORE_PASSWORD
+keyPassword=YOUR_KEY_PASSWORD
+keyAlias=release-key
+storeFile=/path/to/your/release-key.jks

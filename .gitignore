@@ -15,3 +15,4 @@ ios/Flutter/Flutter.podspec
 .idea/
 .vscode/
 .DS_Store
+android/key.properties
