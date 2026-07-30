@@ -44,3 +44,7 @@ A high-contrast Flutter app for mobile framing layout, rafter length, cut list, 
 ## GitHub
 
 This repository is ready to be published as a public GitHub project. Use `gh repo create` if desired.
+
+## Release Guide
+
+For store-specific packaging and signing steps, see `RELEASE.md`.
